@@ -1,5 +1,4 @@
-## Olá, bem vindos à cova do Leão
-### Me chamo Wellington, e aqui temos:
+## Olá, bem vindos, aqui temos:
 
 - ciência de dados
 - tecnologias e linguagens
